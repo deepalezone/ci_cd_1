@@ -12,3 +12,4 @@ class Book:
 
     def return_book(self):
         self.available = True
+
